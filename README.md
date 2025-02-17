@@ -1,2 +1,2 @@
 # Java Projects
- Projects I competed during my university studies and individual work.
+ Projects I completed during my university studies and individual work.
